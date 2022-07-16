@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taha Saad</h1>
 <h3 align="center">A passionate Mobile Software developer from Iraq</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flutterdevtaha&label=Profile%20views&color=0e75b6&style=flat" alt="flutterdevtaha" /> </p>
+
 - 🔭 I’m currently working on [SnonoConnect](https://play.google.com/store/apps/details?id=com.SnonoConnect)
 
 - 🌱 I’m currently learning **Android, XML, JetPackCompose (from my learning https://github.com/flutterdevtaha/Nutrition-App)**
