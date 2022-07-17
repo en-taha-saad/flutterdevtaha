@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [SnonoConnect](https://play.google.com/store/apps/details?id=com.SnonoConnect)
 
-- 🌱 I’m currently learning **Android, XML, JetPackCompose (from my learning [https://github.com/flutterdevtaha/Nutrition-App](NutritionApp)**
+- 🌱 I’m currently learning **Android, XML, JetPackCompose (from my learning [NutritionApp](https://github.com/flutterdevtaha/Nutrition-App)**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/flutterdevtaha](repos)
+- 👨‍💻 All of my projects are available at [repos](https://github.com/flutterdevtaha)
 
 - 💬 Ask me about **Flutter, Dart**
 
 - 📫 How to reach me **flutterdev.taha.saad@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1iklNAoX2UcgidqbHwH7tBXpNGRnCTegX?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1iklNAoX2UcgidqbHwH7tBXpNGRnCTegX?usp=sharing)
 
 - ⚡ Fun fact **I love walking for a long time.**
 
