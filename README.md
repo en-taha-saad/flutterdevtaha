@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SnonoConnect](https://play.google.com/store/apps/details?id=com.SnonoConnect)
 
-- 🌱 I’m currently learning **Android, XML, JetPackCompose (from my learning [https://github.com/flutterdevtaha/Nutrition-App](Nutrition-App))**
+- 🌱 I’m currently learning **Android, XML, JetPackCompose (from my learning [https://github.com/flutterdevtaha/Nutrition-App](NutritionApp)**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
